@@ -1,6 +1,6 @@
 # Nicoll PVC Access Plug Opener (50mm)
 
-See [Printables]() for details.
+See [Printables](https://www.printables.com/model/924513-nicoll-pvc-access-plug-opener-50mm) for details.
 
 ### License
 
